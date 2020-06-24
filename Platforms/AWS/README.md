@@ -1,2 +1,0 @@
-# knowledgebase
-the knowledge base
