@@ -6,18 +6,18 @@ We study...
 
 ## Programming Languages
 
-[Learn more...](/languages)
+[Learn more...](languages)
 
 ## Operating Systems
 
 
-[Learn more...](/operating-systems)
+[Learn more...](operating-systems)
 
 ## Technical Platforms
 
 
-[Learn more...](/platforms)
+[Learn more...](platforms)
 
 ## Software Environments
 
-[Learn more...](/environments)
+[Learn more...](environments)
