@@ -6,7 +6,7 @@ We study...
 
 ## Programming Languages
 
-- JavaScript
+- [JavaScript](languages/javascript)
 - goLang
 - Python
 
