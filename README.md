@@ -6,18 +6,30 @@ We study...
 
 ## Programming Languages
 
-[Learn more...](languages)
+- JavaScript
+- goLang
+- Python
+
+[See more...](languages)
 
 ## Operating Systems
 
+- Windows
+- MacOS
+- Linux
 
-[Learn more...](operating-systems)
+[See more...](operating-systems)
 
 ## Technical Platforms
 
+- Firebase
+- Google Cloud
+- AWS
 
-[Learn more...](platforms)
+[See more...](platforms)
 
 ## Software Environments
 
-[Learn more...](environments)
+- Docker
+
+[See more...](environments)
