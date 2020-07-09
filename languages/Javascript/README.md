@@ -22,6 +22,3 @@ Learn more about Node.js in the [Node.js knowledge Base](https://github.com/cain
 - Reactjs
 - Vue.js
 - Polymer
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTg2ODM1OTZdfQ==
--->
