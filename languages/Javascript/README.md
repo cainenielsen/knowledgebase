@@ -16,9 +16,12 @@ javascript knowledge base
 ## Asynchonous
 
 ## Node.js
-Learn more about Node.js in the [Node.js knowledge Base](https://github.com/cainenielsen/kb-nodejs)
+Learn more about Node.js in the [Node.js knowledge Base](nodejs/)
 
 ## Frameworks / Libraris
 - Reactjs
 - Vue.js
 - Polymer
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwMTg2ODM1OTZdfQ==
+-->
