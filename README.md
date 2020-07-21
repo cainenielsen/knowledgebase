@@ -6,14 +6,14 @@ We study...
 
 ## Programming Languages
 
-- [JavaScript](languages/javascript)
-- [Node.js](languages/javascript/nodejs)
-- - [Node Package Manager](languages/javascript/nodejs/npm)
-- - [Node Package Runner](languages/javascript/nodejs/npx)
-- [goLang](languages/golang)
+- [JavaScript](languages/javascript/README.md)
+- [Node.js](languages/javascript/nodejs/README.md)
+- - [Node Package Manager](languages/javascript/nodejs/npm.d)
+- - [Node Package Runner](languages/javascript/nodejs/npx.md)
+- [goLang](languages/golang/README.md)
 - Python
 
-[See more...](languages)
+[See more...](languages/README.md)
 
 ## Operating Systems
 
@@ -21,7 +21,7 @@ We study...
 - MacOS
 - Linux
 
-[See more...](operating-systems)
+[See more...](operating-systems/README.md)
 
 ## Technical Platforms
 
@@ -29,10 +29,10 @@ We study...
 - Google Cloud
 - AWS
 
-[See more...](platforms)
+[See more...](platforms/../README.md)
 
 ## Software Environments
 
 - Docker
 
-[See more...](environments)
+[See more...](environments//README.md)

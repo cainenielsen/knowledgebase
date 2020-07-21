@@ -16,7 +16,7 @@ javascript knowledge base
 ## Asynchonous
 
 ## Node.js
-Learn more about Node.js in the [Node.js knowledge Base](nodejs/)
+Learn more about Node.js in the [Node.js knowledge Base](nodejs/README.md)
 
 ## Frameworks / Libraris
 - [Reactjs](reactjs)
